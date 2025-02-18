@@ -1,0 +1,103 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #9e1f30;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 843px;
+  top: 60px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1102px;
+  top: 60px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1278px;
+  top: 60px;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 117px;
+  top: 60px;
+  width: 221px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+  position: absolute;
+  left: 246px;
+  top: 356px;
+  width: 1006px;
+  height: 44px;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-exports-its-corresponding-html-and-css-codes {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 329px;
+  top: 483px;
+  width: 834px;
+}
+.rectangle-1 {
+  background: #a8ff35;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 641px;
+  top: 674px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #faf1f1;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 79px);
+  top: 680px;
+  width: 180px;
+  height: 54px;
+}
